@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92263af6-d547-4f05-9dbf-a0670afbe3c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InteractionDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstSeleniumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +45,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.MyFirstSeleniumTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="TestNG.InteractionDemoTest">
+    <configuration name="InteractionDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumIntro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InteractionDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.InteractionDemoTest" />
         <item itemvalue="TestNG.MyFirstSeleniumTest" />
         <item itemvalue="TestNG.MyFirstSeleniumTest.openExampleCom" />
         <item itemvalue="TestNG.MyFirstTest" />
         <item itemvalue="TestNG.MyFirstTest.someTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705150719899</updated>
       <workItem from="1705150721647" duration="6071000" />
-      <workItem from="1705219532625" duration="2083000" />
+      <workItem from="1705219532625" duration="5411000" />
     </task>
     <servers />
   </component>
